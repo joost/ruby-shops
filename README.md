@@ -19,7 +19,7 @@ A list of Ruby / Rails Agencies (send pull request to get on the list)
 * [Kabisa](http://kabisa.nl/), Netherlands
 * [80beans](http://www.80beans.com/), Netherlands
 * [Intridea](http://www.intridea.com/), US
-* UnboxedConsulting[](http://unboxedconsulting.com), UK/Germany/South Africa
+* [UnboxedConsulting](http://unboxedconsulting.com), UK/Germany/South Africa
 * [Littlelines](http://www.littlelines.com/), US
 * [Planet Argon](http://www.planetargon.com/), US
 * [Lunar Logic](http://www.lunarlogic.io/), Poland
