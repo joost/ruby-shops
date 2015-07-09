@@ -28,4 +28,6 @@ A list of Ruby / Rails Agencies (send pull request to get on the list)
 * [thoughtbot](https://thoughtbot.com/), US
 * [MojoTech](https://www.mojotech.com/), US
 * [Reinteractive](https://reinteractive.net/), US/Australia
-* [Hint Media](http://www.hintmedia.com/)
+* [Hint Media](http://www.hintmedia.com/), US
+* [Vilnius](http://vilniusrb.lt/), Lithuania
+* [Selleo](http://selleo.com/), Poland
