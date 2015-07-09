@@ -25,3 +25,4 @@ A list of Ruby / Rails Agencies (send pull request to get on the list)
 * [Lunar Logic](http://www.lunarlogic.io/), Poland
 * [Dynamic50](http://www.dynamic50.com/), UK
 * [BIGBinary](http://www.bigbinary.com), US
+* [thoughtbot](https://thoughtbot.com/), US
