@@ -31,3 +31,4 @@ A list of Ruby / Rails Agencies (send pull request to get on the list)
 * [Hint Media](http://www.hintmedia.com/), US
 * [Vilnius](http://vilniusrb.lt/), Lithuania
 * [Selleo](http://selleo.com/), Poland
+* [Viget](http://viget.com/), US
