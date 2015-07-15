@@ -1,7 +1,7 @@
-# Ruby-shops
+# Dev-shops
 A list of Ruby / Rails Agencies (send pull request to get on the list)
 
-## Netherlands
+## Ruby-shops
 
 * [We Build Internet](http://www.webuildinternet.com), Netherlands
 * [Alpine Lab](http://www.alpine-lab.com/), France
@@ -32,3 +32,7 @@ A list of Ruby / Rails Agencies (send pull request to get on the list)
 * [Vilnius](http://vilniusrb.lt/), Lithuania
 * [Selleo](http://selleo.com/), Poland
 * [Viget](http://viget.com/), US
+
+## JS/Meteor
+
+* [Differential](http://differential.com/), US
