@@ -1,7 +1,8 @@
 # Dev-shops
-A list of Ruby / Rails Agencies (send pull request to get on the list)
+A list of development agencies.
 
 ## Ruby-shops
+A list of Ruby / Rails agencies (send pull request to get on the list)
 
 * [We Build Internet](http://www.webuildinternet.com), Netherlands
 * [Alpine Lab](http://www.alpine-lab.com/), France
