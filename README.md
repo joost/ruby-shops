@@ -4,6 +4,7 @@ A list of development agencies.
 ## Ruby-shops
 A list of Ruby / Rails agencies (send pull request to get on the list)
 
+* [Ideamotive](https://ideamotive.co), Poland/US
 * [We Build Internet](http://www.webuildinternet.com), Netherlands
 * [Alpine Lab](http://www.alpine-lab.com/), France
 * [RailsWare](http://railsware.com/), Poland/Ukraine/US
