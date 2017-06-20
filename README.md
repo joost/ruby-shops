@@ -18,6 +18,7 @@ A list of Ruby / Rails agencies (send pull request to get on the list)
 * [Hoppinger](http://www.hoppinger.com/), Netherlands
 * [Keplar](https://keplaragency.com), Netherlands
 * [Kabisa](http://kabisa.nl/), Netherlands
+* [kohactive](https://www.kohactive.com), US
 * [80beans](http://www.80beans.com/), Netherlands
 * [Intridea](http://www.intridea.com/), US
 * [UnboxedConsulting](http://unboxedconsulting.com), UK/Germany/South Africa
