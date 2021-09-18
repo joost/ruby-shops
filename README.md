@@ -35,6 +35,7 @@ A list of Ruby / Rails agencies (send pull request to get on the list)
 * [Vilnius](http://vilniusrb.lt/), Lithuania
 * [Selleo](http://selleo.com/), Poland
 * [Viget](http://viget.com/), US
+* [Mintbit](https://www.mintbit.com/), US
 
 ## JS/Meteor
 
