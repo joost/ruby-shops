@@ -1,8 +1,10 @@
-# Dev-shops
-A list of development agencies.
+# Development Agencies
 
-## Ruby-shops
-A list of Ruby / Rails agencies (send pull request to get on the list)
+A list of development agencies per development stack.
+
+## Ruby and Ruby on Rails Development agencies / shops
+
+A list of Ruby / Rails agencies - Ruby Shops (send pull request to get on the list).
 
 * [Ideamotive](https://ideamotive.co), Poland/US
 * [We Build Internet](http://www.webuildinternet.com), Netherlands
